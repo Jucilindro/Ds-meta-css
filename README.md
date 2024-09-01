@@ -1,6 +1,6 @@
 # Projeto DSMeta
 
-Este projeto foi proposto pela escola Devsuperior como conteúdo preparatório para a semana  Spring React, nesse projeto foi feito a estrutura do projeto com HTML  e também a estilização com CSS, esse código será utilizado no desenvolvimentos
+Este projeto foi proposto pela escola Devsuperior como conteúdo preparatório para a semana  Spring React, nesse projeto foi feito a estrutura do projeto com HTML com o objetivo de praticar como estruturar sua página e as diversas Tags do HTML  e também a estilização com CSS, alinhamento dos elementos com flexbox, esse código será utilizado no desenvolvimento
 dos componentes no React.
 
 ## Design Figma do Projeto
@@ -13,6 +13,15 @@ dos componentes no React.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
+
+## Como criar e executar o DSMeta localmente
+
+1. Clone o código fonte
+
+   ```bash
+    git clone git@github.com:wellingtonrsdev/DSMeta_HTML_CSS.git
+   ```
+2. Importe o projeto para dentro do Vscode, certifique-se de instalar a extensão Live Server para renderizar localmente no seu navegador.
 
 
 ## Autor
