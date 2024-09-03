@@ -19,7 +19,7 @@ dos componentes no React.
 1. Clone o código fonte
 
    ```bash
-    git clone git@github.com:wellingtonrsdev/DSMeta_HTML_CSS.git
+    git clone git@github.com:wellingtonrsdev/dsmeta-html-css.git
    ```
 2. Importe o projeto para dentro do Vscode, certifique-se de instalar a extensão Live Server para renderizar localmente no seu navegador.
 
