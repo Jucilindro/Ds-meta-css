@@ -1,4 +1,5 @@
-# Projeto DSMeta
+
+<h1 align="center">Projeto DSMeta</h1>
 
 Este projeto foi proposto pela escola Devsuperior como conteúdo preparatório para a semana  Spring React, nesse projeto foi feito a estrutura do projeto com HTML com o objetivo de praticar como estruturar sua página e as diversas Tags do HTML  e também a estilização com CSS, alinhamento dos elementos com flexbox, esse código será utilizado no desenvolvimento
 dos componentes no React.
